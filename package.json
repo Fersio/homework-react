@@ -2,8 +2,8 @@
   "name": "hey",
   "version": "0.1.0",
   "private": true,
-  "Homepage": "https://fersio.github.io/React-homework/",
-  "dependencies": {
+  
+    "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
