@@ -1,4 +1,4 @@
-# https://fersio.github.io/React-homework/
+# https://fersio.github.io/homework-react/
 
 # Getting Started with Create React App
 
